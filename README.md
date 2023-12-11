@@ -1,5 +1,4 @@
-# CICIDS2017: Detecção de Anomalias em Redes IoT com
-Técnicas de Inteligência Artificial e Aprendizado de MáquinaS
+# CICIDS2017: Detecção de Anomalias em Redes IoT com Técnicas de Inteligência Artificial e Aprendizado de MáquinaS
 
 Esse código referencia o aritgo "[**CICIDS2017: Detecção de Anomalias em Redes IoT com
 Técnicas de Inteligência Artificial e Aprendizado de MáquinaS**]
